@@ -16,7 +16,7 @@ become available on the consumer side,
 ```
 kafka-health-check usage:
   -broker-id uint
-    	id of the Kafka broker to health check
+    	id of the Kafka broker to health check (default 0)
   -broker-port uint
     	Kafka broker port (default 9092)
   -check-interval duration
