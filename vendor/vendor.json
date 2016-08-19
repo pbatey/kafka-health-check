@@ -43,5 +43,5 @@
 			"revision": "5250732bd2ed71d1e374212ebfc32760eca10c0a"
 		}
 	],
-	"rootPath": "github.com/andreas-schroeder/kafka-health-check"
+	"rootPath": "github.com/pbatey/kafka-health-check"
 }
